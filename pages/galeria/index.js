@@ -35,7 +35,7 @@ const index = () => {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossOrigin="anonymous"/>
         </Head>
         <div className="d-flex flex-column justify-content-center align-items-center mt-5">
-            <p className="fs-1 fw-bold text-info mb-5">Algumas das Nossas Receitas</p>
+            <p className="fs-1 fw-bold text-info mb-5">Algumasss das Nossas Receitas</p>
             {list.map((value, key) => (
                 <div className="d-flex flex-column justify-content-center align-items-center mb-5">
                     <Image src={value} alt="Galeria Arts Amigurumi" width={300} height={300} className="border border-2"/>
