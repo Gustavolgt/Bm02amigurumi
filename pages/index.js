@@ -157,7 +157,7 @@ const Home = () => {
                             ></iframe>
                         </div>
                         <p className="is-size-4 is-size-6-mobile">
-                            Tenha uma nova profissão, com praticidade <br />e podendo ganhar dinheiro fazendo a felicidade do próximo.
+                            Tenha uma nova profissãooo, com praticidade <br />e podendo ganhar dinheiro fazendo a felicidade do próximo.
                         </p>
                         <br />
                         <a href={url}>
