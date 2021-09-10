@@ -1,5 +1,4 @@
 import '../styles/globals.css'
-import "../styles/creditcard.css";
 import Head from 'next/head'
 
 
